@@ -11,7 +11,7 @@ The app’s background was created with the use of Canva to display a colourful,
 The app consists of two Screens. The front page is a welcome screen designed to introduce the user who has entered the app, and the second screen is the main display of the Tamagotchi App. 
 
 Screen 1:
-![Screen 1](https://github.com/joshuarp17/MyPetApp/assets/163823348/f04e1820-0f5e-4bb4-b9b2-0bc6bc7a6628)
+https://github.com/joshuarp17/MyPetApp/assets/163823348/606080c1-4a6d-4a96-9b8e-077c45c7b2c2
 
 Screen 2:
 ![Screen 2](https://github.com/joshuarp17/MyPetApp/assets/163823348/a7d66587-675b-4cb1-bbde-1f8565757ec2)
